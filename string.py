@@ -4,8 +4,13 @@ master branch
 develoment branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
  updated in development
  master
 >>>>>>> fe716e8ae3c96de756eb24054fbc9e0704247fb0
+=======
+cherry-pick
+
+>>>>>>> stage
